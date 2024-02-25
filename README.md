@@ -6,7 +6,7 @@ Este é um scanner IPv4 para Android. Ele foi projetado para escanear uma varied
 
 **ANDROID - TERMUX**
 ```bash
-wget https://github.com/adfastltda/scanv4/releases/download/scanv4/scanv4_for_arm64_x86_x86_64.zip && unzip scanv4_for_arm64_x86_x86_64.zip && rm scanv4_for_arm64_x86_x86_64.zip && ./scanv4 -h
+wget https://github.com/adfastltda/scanv4/raw/main/scanv4 && chmod +x && ./scanv4 -h
 ```
 
 
