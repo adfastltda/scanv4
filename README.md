@@ -22,6 +22,7 @@ wget https://github.com/adfastltda/scanv4/raw/main/scanv4 && chmod 777 && ./scan
 ## Fornecedores CDN salvos
 - cloudflare
 - cloudfront
+- edgenext
 - gcore
 - fastly
 - akamai
